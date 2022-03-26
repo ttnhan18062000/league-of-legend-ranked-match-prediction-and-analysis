@@ -1,2 +1,1 @@
-# league-of-legend-ranked-match-prediction-and-analysis
-A simple app uses https://www.kaggle.com/datasets/paololol/league-of-legends-ranked-matches dataset
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
